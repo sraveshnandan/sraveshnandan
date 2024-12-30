@@ -13,14 +13,6 @@ I'm a passionate developer with interests in multiple technologies and areas of 
 - DevOps practices and tools
 - Machine Learning and AI
 
-## 💼 Professional Experience
-- **Software Developer at XYZ Corp (2022 - Present)**
-  - Worked on building scalable web applications using React and Node.js.
-  - Implemented CI/CD pipelines using Jenkins and Docker.
-  
-- **Intern at ABC Ltd (2021 - 2022)**
-  - Assisted in developing RESTful APIs using Django.
-  - Contributed to database design and optimization.
 
 ## 📫 How to Reach Me
 - **Email:** sraveshnandan@gmail.com
