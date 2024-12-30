@@ -27,16 +27,7 @@ I'm a passionate developer with interests in multiple technologies and areas of 
 - **LinkedIn:** [Sravesh Nandan](https://linkedin.com/in/sraveshnandan)
 - **GitHub:** [sraveshnandan](https://github.com/sraveshnandan)
 
-## 🌐 Projects
-- **Project 1:** [Project Name](https://github.com/sraveshnandan/project1)
-  - Brief description of the project.
-  
-- **Project 2:** [Project Name](https://github.com/sraveshnandan/project2)
-  - Brief description of the project.
-
 ## 💬 Let's Connect
 Feel free to reach out if you want to discuss technology, collaborations, or any exciting projects!
 
 ---
-
-*This is an auto-generated profile README. For more information or to make changes, please edit the README file in your GitHub profile repository.*
