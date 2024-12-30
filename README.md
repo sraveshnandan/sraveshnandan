@@ -23,7 +23,7 @@ I'm a passionate developer with interests in multiple technologies and areas of 
   - Contributed to database design and optimization.
 
 ## 📫 How to Reach Me
-- **Email:** sraveshnandan@example.com
+- **Email:** sraveshnandan@gmail.com
 - **LinkedIn:** [Sravesh Nandan](https://linkedin.com/in/sraveshnandan)
 - **GitHub:** [sraveshnandan](https://github.com/sraveshnandan)
 
