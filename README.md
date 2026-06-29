@@ -11,7 +11,7 @@
 
 ```ts
 const sravesh = {
-  degree    : "B.Sc Information Technology",
+  degree    : "Pursuing MCA",
   role      : "Backend Developer · AI & DevOps Enthusiast",
   interests : ["Scalable Backend Systems", "AI Integration", "Developer Tools"],
   learning  : ["DevOps", "Docker", "System Design"],
