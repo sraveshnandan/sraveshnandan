@@ -4,7 +4,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sraveshnandan&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/sraveshnandan)
 
 </div>
 
