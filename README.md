@@ -1,118 +1,121 @@
 <div align="center">
 
-Hi, I'm Sravesh Nandan 👋
+# Hi, I'm Sravesh Nandan 👋
 
-Backend Engineer • AI Enthusiast • DevOps Explorer
+### Backend Developer • AI Enthusiast • DevOps Explorer
 
-Building scalable backend systems, developer tools, and AI-powered products.
+Building scalable backend systems, developer tools, and AI-powered applications.
 
 <p>
-<a href="https://linkedin.com/in/sraveshnandan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sraveshnandan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/sraveshnandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="https://linkedin.com/in/sraveshnandan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&center=true&width=700&lines=Backend+Developer;AI+Enthusiast;DevOps+Explorer;Building+things+that+matter" />
+<a href="mailto:sraveshnandan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sraveshnandan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
-👨‍💻 About Me
+---
 
+## About
+
+```ts
 const sravesh = {
-  degree    : "Pursuing MCA",
-  role      : "Backend Developer · AI & DevOps Enthusiast",
+  degree: "Master of Computer Applications (MCA)",
 
-  interests : [
-    "Scalable Backend Systems",
-    "Distributed Architecture",
+  role: "Backend Developer · AI & DevOps Enthusiast",
+
+  interests: [
+    "Backend Engineering",
+    "Distributed Systems",
     "AI Integration",
     "Developer Tools"
   ],
 
-  learning : [
+  learning: [
+    "System Design",
     "DevOps",
-    "Docker",
-    "Cloud",
-    "System Design"
+    "Cloud Infrastructure"
   ],
 
   motto:
-    "Build software not just to make things work — but to make things better.",
+    "Build software not just to make things work — but to make things better."
 };
+```
 
-🚀 Featured Projects
+---
 
-🌟 Wizo Learning
+## Current Focus
 
-One-on-one mentorship platform with authentication, booking, payments, notifications, real-time communication and scalable backend architecture.
+- Building scalable backend applications
+- Learning distributed systems and cloud infrastructure
+- Exploring AI-powered developer tools
+- Contributing to open source
 
-Tech: Next.js • Node.js • Express • PostgreSQL • Prisma • Redis
+---
 
-🏠 Hostlio
+## Tech Stack
 
-Student accommodation platform supporting multiple roles, booking, commissions and Android application.
+### Languages
 
-Tech: React • Express • PostgreSQL • Prisma
+`TypeScript` `JavaScript` `C` `C++`
 
-⚡ MCPKit
+### Backend
 
-Open-source TypeScript toolkit for building Model Context Protocol servers.
+`Node.js` `Express` `Prisma` `PostgreSQL` `MongoDB`
 
-Tech: TypeScript • Node.js
+### Frontend
 
-🛠 Tech Stack
+`React` `Next.js` `Tailwind CSS`
 
-Languages
+### DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,c,cpp" />
-</p>
+`Docker` `GitHub Actions` `Railway` `Render`
 
-Backend
+### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
-</p>
+`Zod` `Zustand` `Expo` `Stripe`
 
-Also: Prisma • REST APIs • Authentication • WebSockets
+---
 
-Frontend
+## Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+### 🚀 Wizo Learning
 
-DevOps
+A mentorship platform connecting students with mentors through booking, payments, and real-time communication.
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions" />
-</p>
+**Stack:** Next.js • Node.js • PostgreSQL • Prisma • Redis
 
-Deployment: Railway • Render
+---
 
-Libraries
+### 🏠 Hostlio
 
-Prisma • Zod • Zustand • Expo • Stripe
+A student accommodation platform with multi-role access, bookings, and an Android application.
 
-🎯 Current Focus
+**Stack:** React • Express • PostgreSQL
 
-Building scalable backend applications
+---
 
-Learning distributed systems
+### ⚡ MCPKit
 
-AI integrations
+An open-source TypeScript toolkit for building Model Context Protocol (MCP) servers.
 
-Cloud infrastructure
+**Stack:** TypeScript • Node.js
 
-DevOps automation
+---
 
-Open Source
-
-📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sraveshnandan&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sraveshnandan&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sraveshnandan&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -124,26 +127,24 @@ Open Source
 
 </div>
 
-💡 Development Philosophy
+---
 
-Great software is simple, scalable, maintainable, and delightful for both users and developers.
+## Philosophy
 
-🤝 Let's Connect
+> Great software is simple, scalable, maintainable, and built with empathy for both users and developers.
+
+---
+
+## Connect
+
+- 📧 **Email:** sraveshnandan@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/sraveshnandan
+- 💻 **GitHub:** https://github.com/sraveshnandan
+
+---
 
 <div align="center">
 
-<a href="mailto:sraveshnandan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<a href="https://linkedin.com/in/sraveshnandan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<a href="https://github.com/sraveshnandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<div align="center">
-
-⭐ "Build software not just to make things work, but to make things better."
-
-Thanks for visiting my profile!
+*"Build software not just to make things work, but to make things better."*
 
 </div>
