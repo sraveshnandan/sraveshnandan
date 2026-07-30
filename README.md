@@ -1,161 +1,122 @@
 <div align="center">
 
-# Hi, I'm Sravesh Nandan 👋
+Hi, I'm Sravesh Nandan 👋
 
-### Backend Engineer • AI Enthusiast • DevOps Explorer
+Backend Engineer • AI Enthusiast • DevOps Explorer
 
-*Building scalable backend systems, developer tools, and AI-powered products.*
+Building scalable backend systems, developer tools, and AI-powered products.
 
-<br/>
+<p>
+<a href="https://linkedin.com/in/sraveshnandan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sraveshnandan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/sraveshnandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sraveshnandan)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sraveshnandan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sraveshnandan)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&center=true&width=700&lines=Backend+Developer;AI+Enthusiast;DevOps+Explorer;Building+things+that+matter" />
 
 </div>
 
----
+👨‍💻 About Me
 
-# About Me
-
-```ts
 const sravesh = {
-  degree: "Master of Computer Applications (MCA)",
-  role: "Backend Developer · AI & DevOps Enthusiast",
+  degree    : "Pursuing MCA",
+  role      : "Backend Developer · AI & DevOps Enthusiast",
 
-  interests: [
+  interests : [
     "Scalable Backend Systems",
     "Distributed Architecture",
     "AI Integration",
     "Developer Tools"
   ],
 
-  learning: [
-    "Docker",
+  learning : [
     "DevOps",
-    "Cloud Infrastructure",
+    "Docker",
+    "Cloud",
     "System Design"
   ],
 
   motto:
-    "Build software not just to make things work — but to make things better."
+    "Build software not just to make things work — but to make things better.",
 };
-```
 
----
+🚀 Featured Projects
 
-# Engineering Focus
+🌟 Wizo Learning
 
-🧠 Backend Architecture
+One-on-one mentorship platform with authentication, booking, payments, notifications, real-time communication and scalable backend architecture.
 
-⚡ High Performance APIs
+Tech: Next.js • Node.js • Express • PostgreSQL • Prisma • Redis
 
-🤖 AI Integration
+🏠 Hostlio
 
-☁ Cloud & DevOps
+Student accommodation platform supporting multiple roles, booking, commissions and Android application.
 
-📦 Developer Experience
+Tech: React • Express • PostgreSQL • Prisma
 
-🚀 Open Source
+⚡ MCPKit
 
----
+Open-source TypeScript toolkit for building Model Context Protocol servers.
 
-# Technology Ecosystem
+Tech: TypeScript • Node.js
 
-## Languages
+🛠 Tech Stack
+
+Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,c" />
-
+<img src="https://skillicons.dev/icons?i=ts,js,c,cpp" />
 </p>
 
----
-
-## Backend
+Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
-
 </p>
 
-**Also Working With**
+Also: Prisma • REST APIs • Authentication • WebSockets
 
-- Prisma ORM
-- REST APIs
-- Authentication
-- WebSockets
-
----
-
-## Frontend
+Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-
 </p>
 
----
-
-## DevOps
+DevOps
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=docker,githubactions" />
-
 </p>
 
-**Deployment**
+Deployment: Railway • Render
 
-- Railway
-- Render
+Libraries
 
----
+Prisma • Zod • Zustand • Expo • Stripe
 
-## Libraries & Tools
+🎯 Current Focus
 
-- Prisma
-- Zod
-- Zustand
-- Expo
-- Stripe
+Building scalable backend applications
 
----
+Learning distributed systems
 
-# What I'm Currently Learning
+AI integrations
 
-- System Design
-- DevOps
-- Docker
-- Distributed Systems
-- Cloud Infrastructure
-- Scalable API Design
+Cloud infrastructure
 
----
+DevOps automation
 
-# Development Philosophy
+Open Source
 
-> Good software solves problems.
-
-> Great software solves problems while remaining simple, scalable, and maintainable.
-
-I enjoy designing systems that developers love working with as much as users love using.
-
----
-
-# GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sraveshnandan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sraveshnandan&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sraveshnandan&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -163,45 +124,26 @@ I enjoy designing systems that developers love working with as much as users lov
 
 </div>
 
----
+💡 Development Philosophy
 
-# Open Source Mindset
+Great software is simple, scalable, maintainable, and delightful for both users and developers.
 
-I enjoy building products that are
-
-- scalable
-- developer-friendly
-- maintainable
-- performance-focused
-
-I'm always interested in exploring modern backend architecture, AI tooling, cloud technologies, and developer productivity.
-
----
-
-# Connect With Me
+🤝 Let's Connect
 
 <div align="center">
 
-<a href="mailto:sraveshnandan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:sraveshnandan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<a href="https://linkedin.com/in/sraveshnandan">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/sraveshnandan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href="https://github.com/sraveshnandan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/sraveshnandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
-
 <div align="center">
 
-### "Build software not just to make things work, but to make things better."
+⭐ "Build software not just to make things work, but to make things better."
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 </div>
