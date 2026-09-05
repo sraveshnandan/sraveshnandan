@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sravesh Nandan 👋
+# Hi, I'm Sravesh Nandan 
 
 ### Backend Developer • AI Enthusiast • DevOps Explorer
 
@@ -113,13 +113,6 @@ An open-source TypeScript toolkit for building Model Context Protocol (MCP) serv
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sraveshnandan&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sraveshnandan&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
