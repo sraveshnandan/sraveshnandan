@@ -85,48 +85,7 @@ const sravesh = {
 
 ---
 
-## Featured Projects
 
-### 🚀 Wizo Learning
-
-A mentorship platform connecting students with mentors through booking, payments, and real-time communication.
-
-**Stack:** Next.js • Node.js • PostgreSQL • Prisma • Redis
-
----
-
-### 🏠 Hostlio
-
-A student accommodation platform with multi-role access, bookings, and an Android application.
-
-**Stack:** React • Express • PostgreSQL
-
----
-
-### ⚡ MCPKit
-
-An open-source TypeScript toolkit for building Model Context Protocol (MCP) servers.
-
-**Stack:** TypeScript • Node.js
-
----
-
-## GitHub Stats
-
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sraveshnandan&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## Philosophy
-
-> Great software is simple, scalable, maintainable, and built with empathy for both users and developers.
-
----
 
 ## Connect
 
